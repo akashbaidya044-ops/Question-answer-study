@@ -1,0 +1,6 @@
+{
+  "name": "পড়াশোনা সঙ্গী - AI Study Assistant",
+  "description": "শিক্ষার্থীদের জন্য বন্ধুত্বপূর্ণ এআই সহকারী - ছবি তুলে প্রশ্ন সমাধান, গণিতের সহজ ব্যাখ্যা এবং সহজ ভাষায় পড়াশোনা শেখার প্ল্যাটফর্ম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
